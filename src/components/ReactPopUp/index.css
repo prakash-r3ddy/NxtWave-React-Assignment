@@ -1,0 +1,28 @@
+.trigger-button {
+  color: #171f46;
+  border: none;
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+}
+.sort-icon {
+  height: 30px;
+  width: 30px;
+}
+.sort-buttons-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.sort-button {
+  border: none;
+  background-color: transparent;
+  color: #171f46;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'roboto';
+  border-bottom: solid 1px rgb(173, 173, 173);
+  margin-bottom: 10px;
+}

@@ -1,0 +1,13 @@
+.heading {
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.forget-password {
+  color: rgb(0, 0, 0);
+  font-family: 'roboto';
+  font-weight: 500;
+  border: none;
+  background-color: transparent;
+  font-size: 15px;
+  cursor: pointer;
+}

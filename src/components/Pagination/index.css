@@ -1,0 +1,16 @@
+.slick-container {
+  border-left: solid 25px rgb(0, 0, 0);
+  border-right: solid 25px rgb(0, 0, 0);
+  width: 200px;
+}
+
+.slider {
+  color: black;
+  width: 600px;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+  content: '>';
+  font-size: 30px;
+}
